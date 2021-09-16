@@ -4,7 +4,7 @@ import learn2 from '../../assets/learn2.png'
 
 function LearnOne() {
     return (
-        <div className="bg-light text-dark p-5">
+        <div className="bg-light text-dark p-5" id="learning"> 
             <div className="container">
                 <div className="d-md-flex align-items-center justify-content-between">
 

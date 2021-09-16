@@ -12,7 +12,7 @@ import person4 from '../../assets/9.jpg';
 
 function Instructors() {
     return (
-        <div className="bg-primary p-5 text-light">
+        <div className="bg-primary p-5 text-light" id="instructors">
             <div className="container">
                 <h2 className="text-center mt-5 mb-5">Our Instructors</h2>
                 <div className="d-md-flex align-items-center justify-content-center">

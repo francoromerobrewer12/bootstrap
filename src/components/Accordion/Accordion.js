@@ -3,7 +3,7 @@ import './Accordion.css'
 
 function Accordion() {
     return (
-        <div className="bg-light text-dark text-center p-5">
+        <div className="bg-light text-dark text-center p-5" id="questions">
             <div className="container">
                 <h2>Frequently Asked Questions</h2>
 

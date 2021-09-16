@@ -7,6 +7,7 @@ import LearnOne from './components/LearnOne/LearnOne';
 import LearnTwo from './components/LearnTwo/LearnTwo';
 import Accordion from './components/Accordion/Accordion';
 import Instructors from './components/Instructors/Instructors';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <LearnTwo />
       <Accordion />
       <Instructors />
+      <Footer />
     </div>
   );
 }
