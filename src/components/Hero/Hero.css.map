@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AAAA,AAAA,KAAK,AAAA,QAAQ,CAAA;EACT,OAAO,EAAE,KAAK;EACd,OAAO,EAAE,EAAE;EACX,MAAM,EAAE,IAAI;CACf",
     "sources": [
         "Hero.scss"
     ],

@@ -1,9 +1,10 @@
 import React from 'react';
 import img from '../../assets/hero2.png';
+import './Hero.css';
 
 function Hero() {
     return (
-        <div className="bg-dark text-light p-5 p-lg-0 text-center">
+        <div className="bg-dark text-light p-5 p-lg-0 text-center hero">
             <div className="container">
                 <div className="d-sm-flex align-items-center justify-content-between">
                     <div className="hero-text text-center text-md-start">

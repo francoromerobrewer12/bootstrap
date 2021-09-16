@@ -1,1 +1,6 @@
-/* No CSS *//*# sourceMappingURL=Hero.css.map */
+.hero::before {
+  display: block;
+  content: "";
+  height: 80px;
+}
+/*# sourceMappingURL=Hero.css.map */

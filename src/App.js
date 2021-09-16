@@ -5,6 +5,8 @@ import Search from './components/Search/Search';
 import Cards from './components/Cards/Cards';
 import LearnOne from './components/LearnOne/LearnOne';
 import LearnTwo from './components/LearnTwo/LearnTwo';
+import Accordion from './components/Accordion/Accordion';
+import Instructors from './components/Instructors/Instructors';
 
 function App() {
   return (
@@ -15,6 +17,8 @@ function App() {
       <Cards />
       <LearnOne />
       <LearnTwo />
+      <Accordion />
+      <Instructors />
     </div>
   );
 }
