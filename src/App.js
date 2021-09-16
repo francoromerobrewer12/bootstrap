@@ -2,6 +2,7 @@ import './App.css';
 import Navbar from './components/Navbar/Navbar';
 import Hero from './components/Hero/Hero';
 import Search from './components/Search/Search';
+import Cards from './components/Cards/Cards';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Navbar />
       <Hero />
       <Search />
+      <Cards />
     </div>
   );
 }

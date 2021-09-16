@@ -17,10 +17,10 @@ function Navbar() {
                                 <a className="nav-link active" aria-current="page" href="#">What You'll Learn</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#">Questions</a>
+                                <a className="nav-link" href="#questions">Questions</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#">Our Instructors</a>
+                                <a className="nav-link" href="#instructors">Our Instructors</a>
                             </li>
                         </ul>
                     </div>
